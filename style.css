@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif; 
+
+    cursor:progress;
+}
+body{
+    text-align: center;
+} 
+.Header h1{
+    margin-top: 10px;
+    font-size: 55px;
+    color: rgb(128, 124, 120);
+} 
+section h2{
+    color: rgb(214, 178, 57);
+} 
+section h3 {
+    color: rgb(128, 124, 120);
+} 
+.btn{
+    height: 45px;
+    width: 150px; 
+    border: none;
+    background: linear-gradient(to right, orange, crimson);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 7px;
+    cursor: pointer;  
+
+}
